@@ -6,17 +6,19 @@ This is ajax commands calls controler used in oncebuilder to return ajax respons
 File structure
 ===================
 
-```once
-    config.php
-    once.php
-    class
-        core.class.php
-        once.core.class.php
-    include
-        once.core.php
-    js
-        jquery-2.1.1.js
-        once.core.js```
+```
+once
+config.php
+once.php
+class
+    core.class.php
+    once.core.class.php
+include
+    once.core.php
+js
+    jquery-2.1.1.js
+    once.core.js
+```
 
 Requirements
 ===================
